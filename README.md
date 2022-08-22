@@ -1,5 +1,5 @@
 # FraserTojeiroChittendenPaper
-Release repository of all the code, figures and notebooks used to generate the GMM clusters in the paper: . Email tsfraser@uwaterloo.ca for additional questions regarding data access, code, etc.
+Release repository of all the code, figures and notebooks used to generate the GMM clusters in the paper: https://arxiv.org/abs/2112.12516 . Email tsfraser@uwaterloo.ca for additional questions regarding data access, code, etc.
 
 
 Notebook is roughly divided into sections that produce figures based off of the original star formation and metallicity histories as well as their smoothed variants. For reasons explained in the paper, we used the smoothed histories instead, as they provide a more robust basis.
